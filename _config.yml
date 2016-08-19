@@ -6,9 +6,9 @@ color:
   saturation: 0.12817435851320624
   rhythmicContrast: 0.08124245726503432
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: bsd
