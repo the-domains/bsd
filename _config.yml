@@ -1,4 +1,3 @@
-layout_spectrum: 0.13121254928410053
 typography_spectrum: 0.8312275200150907
 color:
   brandStrength: 0.9783899853937328
@@ -6,9 +5,11 @@ color:
   saturation: 0.12817435851320624
   rhythmicContrast: 0.08124245726503432
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.13121254928410053
 name: bsd
+title: build sustainable development
