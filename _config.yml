@@ -1,0 +1,14 @@
+layout_spectrum: 0.13121254928410053
+typography_spectrum: 0.8312275200150907
+color:
+  brandStrength: 0.9783899853937328
+  lightness: 0.38935086061246693
+  saturation: 0.12817435851320624
+  rhythmicContrast: 0.08124245726503432
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: bsd
